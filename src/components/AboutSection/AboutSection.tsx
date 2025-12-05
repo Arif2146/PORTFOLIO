@@ -13,7 +13,7 @@ export const AboutSection = () => {
     >
       <h2 className="text-3xl font-bold">About Me 🚀</h2>
       <p className="text-muted-foreground text-sm max-w-3xl">
-         Hi, I’m Arif 👋 — a first-year B.Tech CSE student at RMGEC 💻 and a passionate part-time Full Stack Developer 🌐 & React Native Developer 📱. I have around 1 year of experience building scalable and user-friendly web and mobile applications ⚙️✨<br/><br/>
+         Hi, I’m Arif 👋 — a first-year B.Tech CSE student at RKMGEC 💻 and a passionate part-time Full Stack Developer 🌐 & React Native Developer 📱. I have around 1 year of experience building scalable and user-friendly web and mobile applications ⚙️✨<br/><br/>
 
 I love exploring new technologies 🔍 and continuously leveling up my skills in both backend and frontend development. My goal is to create impactful digital solutions while growing every single day as a developer 🚀🌱
       </p>
